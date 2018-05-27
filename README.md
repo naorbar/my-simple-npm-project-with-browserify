@@ -1,6 +1,6 @@
 
 # Description 
-Use NPM in my Javascript project
+Use NPM in my Javascript project with Browserify
 
 # Author 
 Naor Bar
